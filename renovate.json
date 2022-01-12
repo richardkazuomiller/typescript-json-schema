@@ -4,5 +4,6 @@
   ],
   "dependencyDashboard": true,
   "prHourlyLimit": 0,
-  "baseBranches": ["master", "next"]
+  "baseBranches": ["master", "next"],
+  "gitAuthor": "Ricky Miller <ricky@ricky.me>"
 }
