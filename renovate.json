@@ -10,7 +10,7 @@
   "packageRules": [
     {
       "matchBaseBranches": ["master"],
-      "rangeStrategy": "replace",
+      "rangeStrategy": "replace"
     }
   ]
 }
