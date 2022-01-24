@@ -56,11 +56,11 @@
   "devDependencies": {
     "@types/chai": "^4.2.21",
     "@types/glob": "^7.1.4",
-    "@types/mocha": "^9.0.0",
+    "@types/mocha": "^9.1.0",
     "ajv": "^8.6.3",
     "ajv-formats": "^2.1.1",
     "chai": "^4.3.4",
-    "mocha": "^9.1.1",
+    "mocha": "^9.2.0",
     "prettier": "^2.4.1",
     "source-map-support": "^0.5.20",
     "tslint": "^6.1.3"
