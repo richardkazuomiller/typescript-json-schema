@@ -13,6 +13,10 @@
       "rangeStrategy": "replace"
     },
     {
+      "matchPackageNames": ["ts-node"],
+      "rangeStrategy": "bump"
+    },
+    {
       "matchPackageNames": [
         "typescript",
         "ts-node"
