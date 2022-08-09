@@ -11,6 +11,14 @@
     {
       "matchBaseBranches": ["master"],
       "rangeStrategy": "replace"
+    },
+    {
+      "matchPackageNames": [
+        "typescript",
+        "ts-node"
+      ],
+      "description": "Group TypeScript and typescript-json-schema together",
+      "groupName": "typescript and ts-node"
     }
   ]
 }
