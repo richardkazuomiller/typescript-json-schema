@@ -42,7 +42,7 @@
   ],
   "dependencies": {
     "@types/json-schema": "^7.0.9",
-    "@types/node": "^16.9.2",
+    "@types/node": "^18.0.0",
     "glob": "^7.1.7",
     "path-equal": "^1.1.2",
     "safe-stable-stringify": "^2.2.0",
