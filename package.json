@@ -41,7 +41,7 @@
     "schema"
   ],
   "dependencies": {
-    "@types/json-schema": "^7.0.9",
+    "@types/json-schema": "^7.0.15",
     "@types/node": "^16.9.2",
     "glob": "^7.1.7",
     "path-equal": "^1.1.2",
